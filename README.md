@@ -29,9 +29,7 @@ I’m currently expanding my cloud skills through self-paced learning, hands-on 
 ---
 
 ## 📬 Let’s Connect!
-- 🧑🏾‍💻 [LinkedIn – Kwasi Tarawally](https://www.linkedin.com/) *(Add your actual profile here)*  
-- 📫 kwasicloud@gmail.com *(or your preferred contact email)*
-
+- 🧑🏾‍💻 [LinkedIn – Kwasi Tarawally](https://www.linkedin.com/)  
 ---
 
 > “Your story matters. Build something that lasts, and stay in the cloud.”
