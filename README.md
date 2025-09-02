@@ -12,7 +12,7 @@ I’m currently expanding my cloud skills through self-paced learning, hands-on 
 ---
 
 ## 📚 Currently Working On
-- 🟡 Studying for the **AWS Certified Cloud Practitioner** exam  
+- 🟡 Studying for the **AWS Solutions Architect Associate certification** exam  
 - 🛠️ Practicing AWS tools like **EC2, IAM, S3, and CloudWatch** via Free Tier  
 - 📝 Building this portfolio to track my learning journey  
 - 💻 Exploring Linux CLI and basic scripting to support cloud operations
