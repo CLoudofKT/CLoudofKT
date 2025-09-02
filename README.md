@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I’m Kwasi Tarawally
 
-🌍 London, UK | 🧠 Aspiring Cloud Engineer | ☁️ AWS Certified (In Progress)
+🌍 London, UK | 🧠 Aspiring Cloud Engineer | ☁️ AWS Certified Cloud Practitioner | Currently studying towards the AWS Solutions Architect Associate certification
 
 ---
 
