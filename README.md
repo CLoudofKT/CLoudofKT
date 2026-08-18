@@ -21,8 +21,7 @@ hands-on projects, documented right here on GitHub.
 ---
 
 ## 🧰 Tools & Technologies
-- **AWS (EC2, S3, IAM, CloudWatch)**  
-- **Git & GitHub**  
+- AWS (EC2, S3, IAM, CloudWatch) — learning via Free Tier- **Git & GitHub**  
 - **Markdown (.md)**  
 - **Linux terminal basics**  
 - **VS Code, Notion, and GitHub Projects for documentation**
