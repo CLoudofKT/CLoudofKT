@@ -7,7 +7,8 @@
 ## 🚀 About Me
 I'm a motivated and tech-driven future cloud engineer with a strong interest in building secure, scalable, and reliable systems in the cloud — with a focus on support, infrastructure, and security.
 
-I’m currently expanding my cloud skills through self-paced learning, hands-on practice, and real-world AWS projects — all documented right here on GitHub.
+I'm currently expanding my cloud skills through self-paced learning and
+hands-on projects, documented right here on GitHub.
 
 ---
 
